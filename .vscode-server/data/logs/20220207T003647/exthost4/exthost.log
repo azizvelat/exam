@@ -1,0 +1,16 @@
+[2022-02-07 00:58:33.081] [exthost] [info] Extension host with pid 13303 started
+[2022-02-07 00:58:33.086] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/9546853303ff2760a9297120f6b4aea5/vscode.lock': Lock acquired.
+[2022-02-07 00:58:33.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-07 00:58:33.259] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-07 00:58:33.619] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-07 00:58:33.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-07 00:58:33.924] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-07 00:58:33.946] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-07 00:58:33.964] [exthost] [info] Eager extensions activated
+[2022-02-07 00:58:34.116] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1583
+[2022-02-07 00:58:34.984] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1583
+[2022-02-07 00:58:48.517] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1585
+[2022-02-07 00:59:26.885] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1585
+[2022-02-07 01:00:28.091] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-02-07 01:00:28.091] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/9546853303ff2760a9297120f6b4aea5/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-02-07 01:00:28.102] [exthost] [info] Extension host with pid 13303 exiting with code 0

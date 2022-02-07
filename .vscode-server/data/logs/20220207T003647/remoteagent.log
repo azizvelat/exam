@@ -1,0 +1,59 @@
+[2022-02-07 00:36:47.859] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-02-07 00:36:47.860] [remoteagent] [info] Extension host agent started.
+[2022-02-07 00:36:48.112] [remoteagent] [info] [127.0.0.1][06782f87][ManagementConnection] New connection established.
+[2022-02-07 00:36:48.326] [remoteagent] [info] [127.0.0.1][61b8fbfa][ExtensionHostConnection] New connection established.
+[2022-02-07 00:36:48.330] [remoteagent] [info] [127.0.0.1][61b8fbfa][ExtensionHostConnection] <11491> Launched Extension Host Process.
+[2022-02-07 00:37:13.554] [remoteagent] [info] [127.0.0.1][06782f87][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-07 00:37:13.574] [remoteagent] [info] [127.0.0.1][61b8fbfa][ExtensionHostConnection] <11491> Extension Host Process exited with code: 0, signal: null.
+[2022-02-07 00:37:13.574] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-07 00:37:17.705] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-07 00:37:17.706] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-07 00:37:18.197] [remoteagent] [info] [127.0.0.1][b6b7e462][ManagementConnection] New connection established.
+[2022-02-07 00:37:18.416] [remoteagent] [info] [127.0.0.1][eb4d9477][ExtensionHostConnection] New connection established.
+[2022-02-07 00:37:18.421] [remoteagent] [info] [127.0.0.1][eb4d9477][ExtensionHostConnection] <11613> Launched Extension Host Process.
+[2022-02-07 00:42:17.706] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-02-07 00:57:40.048] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ec2-user)
+[2022-02-07 00:57:40.049] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-02-07 00:57:45.847] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ec2-user)
+[2022-02-07 00:57:45.847] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-02-07 00:58:05.466] [remoteagent] [info] [127.0.0.1][10548795][ManagementConnection] New connection established.
+[2022-02-07 00:58:05.713] [remoteagent] [info] [127.0.0.1][96181851][ExtensionHostConnection] New connection established.
+[2022-02-07 00:58:05.718] [remoteagent] [info] [127.0.0.1][96181851][ExtensionHostConnection] <13123> Launched Extension Host Process.
+[2022-02-07 00:58:27.352] [remoteagent] [info] [127.0.0.1][10548795][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-07 00:58:27.365] [remoteagent] [info] [127.0.0.1][96181851][ExtensionHostConnection] <13123> Extension Host Process exited with code: 0, signal: null.
+[2022-02-07 00:58:28.628] [remoteagent] [info] [127.0.0.1][b6b7e462][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-07 00:58:28.691] [remoteagent] [info] [127.0.0.1][eb4d9477][ExtensionHostConnection] <11613> Extension Host Process exited with code: 0, signal: null.
+[2022-02-07 00:58:28.691] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-07 00:58:30.978] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-07 00:58:30.978] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-07 00:58:31.457] [remoteagent] [info] [127.0.0.1][658cdf7b][ManagementConnection] New connection established.
+[2022-02-07 00:58:31.696] [remoteagent] [info] [127.0.0.1][cf3c7886][ExtensionHostConnection] New connection established.
+[2022-02-07 00:58:31.701] [remoteagent] [info] [127.0.0.1][cf3c7886][ExtensionHostConnection] <13303> Launched Extension Host Process.
+[2022-02-07 01:00:14.765] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-07 01:00:14.765] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-07 01:00:15.259] [remoteagent] [info] [127.0.0.1][5c332f2d][ManagementConnection] New connection established.
+[2022-02-07 01:00:15.505] [remoteagent] [info] [127.0.0.1][9d914216][ExtensionHostConnection] New connection established.
+[2022-02-07 01:00:15.511] [remoteagent] [info] [127.0.0.1][9d914216][ExtensionHostConnection] <13581> Launched Extension Host Process.
+[2022-02-07 01:00:25.944] [remoteagent] [info] [127.0.0.1][5c332f2d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-07 01:00:25.964] [remoteagent] [info] [127.0.0.1][9d914216][ExtensionHostConnection] <13581> Extension Host Process exited with code: 0, signal: null.
+[2022-02-07 01:00:25.964] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-07 01:00:28.085] [remoteagent] [info] [127.0.0.1][658cdf7b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-07 01:00:28.111] [remoteagent] [info] [127.0.0.1][cf3c7886][ExtensionHostConnection] <13303> Extension Host Process exited with code: 0, signal: null.
+[2022-02-07 01:00:28.111] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-07 01:00:29.373] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-07 01:00:29.373] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-07 01:00:30.245] [remoteagent] [info] [127.0.0.1][f7c69a26][ManagementConnection] New connection established.
+[2022-02-07 01:00:30.656] [remoteagent] [info] [127.0.0.1][ef28cb11][ExtensionHostConnection] New connection established.
+[2022-02-07 01:00:30.662] [remoteagent] [info] [127.0.0.1][ef28cb11][ExtensionHostConnection] <13702> Launched Extension Host Process.
+[2022-02-07 01:05:29.374] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-02-07 01:09:44.787] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ec2-user)
+[2022-02-07 01:09:44.788] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc

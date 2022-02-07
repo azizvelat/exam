@@ -1,0 +1,84 @@
+server.sh is being replaced by 'bin/code-server'. Please migrate to the new command and adopt the following new default behaviors:
+* connection token is mandatory unless --without-connection-token is used
+* host defaults to `localhost`
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 37201
+
+Option 'connection-secret' is deprecated: Use {0} instead.
+[00:36:47] Extension host agent started.
+[00:36:48] [127.0.0.1][06782f87][ManagementConnection] New connection established.
+[00:36:48] [127.0.0.1][61b8fbfa][ExtensionHostConnection] New connection established.
+[00:36:48] [127.0.0.1][61b8fbfa][ExtensionHostConnection] <11491> Launched Extension Host Process.
+[00:37:13] [127.0.0.1][06782f87][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[00:37:13] [127.0.0.1][61b8fbfa][ExtensionHostConnection] <11491> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[00:37:13] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[00:37:17] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[00:37:17] Cancelling previous shutdown timeout
+[00:37:18] [127.0.0.1][b6b7e462][ManagementConnection] New connection established.
+[00:37:18] [127.0.0.1][eb4d9477][ExtensionHostConnection] New connection established.
+[00:37:18] [127.0.0.1][eb4d9477][ExtensionHostConnection] <11613> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[00:42:17] New EH opened, aborting shutdown
+[00:57:40] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ec2-user)
+[00:57:40] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[00:57:45] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ec2-user)
+[00:57:45] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[node.js fs] readdir with filetypes failed with error:  [Error: ENOENT: no such file or directory, scandir '/home/ec2-user/Terraform-Project/autoscalling'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/ec2-user/Terraform-Project/autoscalling'
+}
+[00:58:05] [127.0.0.1][10548795][ManagementConnection] New connection established.
+[00:58:05] [127.0.0.1][96181851][ExtensionHostConnection] New connection established.
+[00:58:05] [127.0.0.1][96181851][ExtensionHostConnection] <13123> Launched Extension Host Process.
+[00:58:27] [127.0.0.1][10548795][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[00:58:27] [127.0.0.1][96181851][ExtensionHostConnection] <13123> Extension Host Process exited with code: 0, signal: null.
+[00:58:28] [127.0.0.1][b6b7e462][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[00:58:28] [127.0.0.1][eb4d9477][ExtensionHostConnection] <11613> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[00:58:28] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[00:58:30] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[00:58:30] Cancelling previous shutdown timeout
+[00:58:31] [127.0.0.1][658cdf7b][ManagementConnection] New connection established.
+[00:58:31] [127.0.0.1][cf3c7886][ExtensionHostConnection] New connection established.
+[00:58:31] [127.0.0.1][cf3c7886][ExtensionHostConnection] <13303> Launched Extension Host Process.
+Got delay-shutdown request while in shutdown timeout, delaying
+[01:00:14] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[01:00:14] Cancelling previous shutdown timeout
+[01:00:15] [127.0.0.1][5c332f2d][ManagementConnection] New connection established.
+[01:00:15] [127.0.0.1][9d914216][ExtensionHostConnection] New connection established.
+[01:00:15] [127.0.0.1][9d914216][ExtensionHostConnection] <13581> Launched Extension Host Process.
+[01:00:25] [127.0.0.1][5c332f2d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[01:00:25] [127.0.0.1][9d914216][ExtensionHostConnection] <13581> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[01:00:25] Cancelling previous shutdown timeout
+[01:00:28] [127.0.0.1][658cdf7b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[01:00:28] [127.0.0.1][cf3c7886][ExtensionHostConnection] <13303> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[01:00:28] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[01:00:29] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[01:00:29] Cancelling previous shutdown timeout
+[01:00:30] [127.0.0.1][f7c69a26][ManagementConnection] New connection established.
+[01:00:30] [127.0.0.1][ef28cb11][ExtensionHostConnection] New connection established.
+[01:00:30] [127.0.0.1][ef28cb11][ExtensionHostConnection] <13702> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[01:05:29] New EH opened, aborting shutdown
+[01:09:44] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ec2-user)
+[01:09:44] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
